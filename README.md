@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Kinho
+## Oiii! Eu sou o Kinho ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kinhosz.kinhosz)
  <div>
   <a href="https://github.com/kinhosz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinhosz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -22,4 +22,4 @@
  
   ![Snake animation](https://github.com/kinhosz/kinhosz/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+ </div>
