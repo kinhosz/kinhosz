@@ -29,6 +29,11 @@
 * [Avalon Game](https://github.com/kinhosz/AvalonGame) é um telegram Bot para se divertir com seus amigos.
 * [Diana](https://github.com/kinhosz/Diana) é um bot que ficou famoso no tiktok. Reconhecedor e replicador de padrões das mensagens no Google Meet.
  
+ ## 👨🏽‍💻 Sobre mim
+ * 21 Anos
+ * Estudante de Engenharia da computação
+ * Amante da astronomia e programação
+ 
  ##
  
   ![Snake animation](https://github.com/kinhosz/kinhosz/blob/output/github-contribution-grid-snake.svg)
