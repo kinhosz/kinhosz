@@ -19,7 +19,16 @@
   <a href="https://instagram.com/kinhosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/szkinho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josecarloscruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ 
+ ##
+ 
+ ## 💻 Um pouco do meu trabalho
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* [Algorithms](https://github.com/kinhosz/Algorithms) é uma biblioteca com códigos em C++ para programação competitiva.
+* [Avalon Game](https://github.com/kinhosz/AvalonGame/blob/master/avalon.py) é um telegram Bot para se divertir com seus amigos.
+* [Diana](https://github.com/kinhosz/Diana) é um bot que ficou famoso no tiktok. Reconhecedor e replicador de padrões das mensagens no Google Meet.
+ 
+ ##
  
   ![Snake animation](https://github.com/kinhosz/kinhosz/blob/output/github-contribution-grid-snake.svg)
- 
- </div>
