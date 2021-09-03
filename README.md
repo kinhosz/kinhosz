@@ -26,7 +26,7 @@
  ## 💻 Um pouco do meu trabalho
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * [Algorithms](https://github.com/kinhosz/Algorithms) é uma biblioteca com códigos em C++ para programação competitiva.
-* [Avalon Game](https://github.com/kinhosz/AvalonGame/blob/master/avalon.py) é um telegram Bot para se divertir com seus amigos.
+* [Avalon Game](https://github.com/kinhosz/AvalonGame) é um telegram Bot para se divertir com seus amigos.
 * [Diana](https://github.com/kinhosz/Diana) é um bot que ficou famoso no tiktok. Reconhecedor e replicador de padrões das mensagens no Google Meet.
  
  ##
