@@ -30,6 +30,10 @@
 * [Algorithms](https://github.com/kinhosz/Algorithms) é uma biblioteca com códigos em C++ para programação competitiva.
 * [Avalon Game](https://github.com/kinhosz/AvalonGame) é um telegram Bot para se divertir com seus amigos.
 * [Diana](https://github.com/kinhosz/Diana) é um bot que ficou famoso no tiktok. Reconhecedor e replicador de padrões das mensagens no Google Meet.
+* [Garden](https://github.com/kinhosz/Garden) Aplicação com RayTracing implementado completamente do zero em Java.
+* [Análise da Covid19](https://github.com/kinhosz/Covid-19) Análise utilizando métodos númericos para o avanço da doença no estado de Pernambuco com uma projeção.
+* [Venus](https://github.com/kinhosz/Venus) Protocolo para sistemas de votação segura usando o algoritmo RSA de criptografia.
+* [Deep Learning](https://github.com/kinhosz/Deep-Learning) Rede neural que reconhece dígitos manuscritos utilizando o MNIST dataset.
  
  ## 👨🏽‍💻 Sobre mim
  * 21 Anos
