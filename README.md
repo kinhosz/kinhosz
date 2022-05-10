@@ -36,7 +36,7 @@
 * [Deep Learning](https://github.com/kinhosz/Deep-Learning) Rede neural que reconhece dígitos manuscritos utilizando o MNIST dataset.
  
  ## 👨🏽‍💻 Sobre mim
- * 21 Anos
+ * 22 Anos
  * Estudante de Engenharia da computação
  * Amante da astronomia e programação
  
