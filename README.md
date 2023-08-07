@@ -27,8 +27,7 @@
 </p>
 
 ### 💻 Open-Source Projects
-* [ICPC Library](https://github.com/kinhosz/ICPC-Library) 
-<img height="18em" alt="Stars" src="https://img.shields.io/github/stars/kinhosz/ICPC-Library?style=flat-square&labelColor=black"/>
+* [ICPC Library](https://github.com/kinhosz/ICPC-Library) <img height="18em" alt="Stars" src="https://img.shields.io/github/stars/kinhosz/ICPC-Library?style=flat-square&labelColor=black"/>
 > Library of algorithms and data structures for the ICPC
 
 * [Neural](https://github.com/kinhosz/Neural) <img height="18em" alt="Stars" src="https://img.shields.io/github/stars/kinhosz/Neural?style=flat-square&labelColor=black"/> ![NeuralDow](https://static.pepy.tech/personalized-badge/Kinho?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)
