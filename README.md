@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/josecarloscruz/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
+<a href="https://codeforces.com/profile/kinhosz">
+    <img src="https://img.shields.io/badge/-Codeforces-white?style=flat-square&logo=codeforces">
+</a>
 <a href="https://pypi.org/user/kinhosz/">
     <img src="https://img.shields.io/badge/PyPi-kinhosz-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
