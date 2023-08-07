@@ -1,45 +1,60 @@
-## Oiii! Eu sou o Kinho ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kinhosz.kinhosz)
- <div>
-  <a href="https://github.com/kinhosz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinhosz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinhosz&hide=Jupyter%20Notebook,VHDL,verilog,makefile,shell,css&layout=compact&langs_count=10&theme=midnight-purple"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-</div>
+<p align="center">
+<a href="https://github.com/kinhosz">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=1000&height=120&lines=Kinhosz;José+Carlos+%7C+23y;Competitive+Programmer+%7C+Computer+Science+Student%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+</a>
+<br/>
 
-  ##
+<a href="https://www.linkedin.com/in/josecarloscruz/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="https://pypi.org/user/kinhosz/">
+    <img src="https://img.shields.io/badge/PyPi-kinhosz-blue?style=flat-square&logo=pypi&logoColor=white">
+</a>
+<a href="https://instagram.com/kinhosz">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.twitch.tv/szkinho">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white">
+</a>
+
+<br/> 
+
+<a href="https://github.com/kinhosz">
+    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=kinhosz&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinhosz&hide=Jupyter%20Notebook,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=midnight-purple"/>
+</a>
+
+</p>
+
+### 💻 Open-Source Projects
+* [ICPC Library](https://github.com/kinhosz/ICPC-Library) 
+<img height="18em" alt="Stars" src="https://img.shields.io/github/stars/kinhosz/ICPC-Library?style=flat-square&labelColor=black"/>
+> Library of algorithms and data structures for the ICPC
+
+* [Neural](https://github.com/kinhosz/Neural) <img height="18em" alt="Stars" src="https://img.shields.io/github/stars/kinhosz/Neural?style=flat-square&labelColor=black"/> ![NeuralDow](https://static.pepy.tech/personalized-badge/Kinho?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)
+> API for creating Convolutional Neural Networks (CNN) for image processing and related tasks. NVIDIA GPU support included
+
+* [Appel](https://github.com/kinhosz/Appel) <img height="18em" alt="Stars" src="https://img.shields.io/github/stars/kinhosz/Appel?style=flat-square&labelColor=black"/>
+> Computer Vision with Ray Tracing
+
+* [Diana](https://github.com/kinhosz/Diana) <img height="18em" alt="Stars" src="https://img.shields.io/github/stars/kinhosz/Diana?style=flat-square&labelColor=black"/>
+> ChatBot for managing calls on Google Meet
+
+* [Avalon](https://github.com/kinhosz/AvalonGame) <img height="18em" alt="Stars" src="https://img.shields.io/github/stars/kinhosz/AvalonGame?style=flat-square&labelColor=black"/>
+> Telegram bot for managing [Avalon](https://hobbylark.com/card-games/How-to-Play-Avalon) game matches
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinhosz&theme=midnight-purple) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinhosz&theme=midnight-purple) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinhosz&theme=midnight-purple)
+
+
+<br>
+
+</details>
  
-<div> 
-  <a href="https://instagram.com/kinhosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/szkinho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josecarloscruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/FG8mvEtc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
- </div>
- 
- ##
- 
- ## 💻 Um pouco do meu trabalho
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* [Algorithms](https://github.com/kinhosz/Algorithms) é uma biblioteca com códigos em C++ para programação competitiva.
-* [Avalon Game](https://github.com/kinhosz/AvalonGame) é um telegram Bot para se divertir com seus amigos.
-* [Diana](https://github.com/kinhosz/Diana) é um bot que ficou famoso no tiktok. Reconhecedor e replicador de padrões das mensagens no Google Meet.
-* [Garden](https://github.com/kinhosz/Garden) Aplicação com RayTracing implementado completamente do zero em Java.
-* [Análise da Covid19](https://github.com/kinhosz/Covid-19) Análise utilizando métodos númericos para o avanço da doença no estado de Pernambuco com uma projeção.
-* [Venus](https://github.com/kinhosz/Venus) Protocolo para sistemas de votação segura usando o algoritmo RSA de criptografia.
-* [Rede Neural (GPU/CPU)](https://github.com/kinhosz/Deep-Learning) Rede neural que reconhece dígitos manuscritos utilizando o MNIST dataset.
- 
- ## 👨🏽‍💻 Sobre mim
- * 22 Anos
- * Estudante de Engenharia da computação
- * Amante da astronomia e programação
- 
- ##
- 
-  ![Snake animation](https://github.com/kinhosz/kinhosz/blob/output/github-contribution-grid-snake.svg)
