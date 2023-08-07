@@ -42,18 +42,12 @@
 * [Avalon](https://github.com/kinhosz/AvalonGame) <img height="18em" alt="Stars" src="https://img.shields.io/github/stars/kinhosz/AvalonGame?style=flat-square&labelColor=black"/>
 > Telegram bot for managing [Avalon](https://hobbylark.com/card-games/How-to-Play-Avalon) game matches
 
-<details>
-<summary>📈 Stats</summary>
+### 📈 Stats
 <br>
-My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinhosz&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinhosz&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinhosz&theme=dracula)
 
-
 <br>
-
-</details>
- 
