@@ -47,10 +47,10 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinhosz&theme=midnight-purple) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinhosz&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinhosz&theme=midnight-purple) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinhosz&theme=midnight-purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinhosz&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinhosz&theme=dracula)
 
 
 <br>
