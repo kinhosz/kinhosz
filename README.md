@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/kinhosz">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=1000&height=120&lines=Kinhosz;José+Carlos+%7C+23y;Competitive+Programmer+%7C+Computer+Science+Student%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=1000&height=120&lines=Kinhosz;José+Carlos+%7C+24y;Competitive+Programmer+%7C+Computer+Science+Student%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
 </a>
 <br/>
 
